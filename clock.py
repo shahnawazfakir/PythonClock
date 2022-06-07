@@ -27,7 +27,7 @@ red =  (255,0,40)
 # main color
 color = green
 
-# date
+# date/month
 months = ['January', 'February', 'March', 'April', 'May', 
 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday' ]
