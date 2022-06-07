@@ -1,1 +1,2 @@
-# Digital Clock in Python
+# Digital Clock
+Digital Clock created using Python
